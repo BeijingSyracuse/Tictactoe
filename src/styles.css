@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.board {
+  width: 6rem;
+  box-sizing: border-box;
+  margin: auto;
+}
+
+.square {
+  width: 2rem;
+  height: 2rem;
+  vertical-align: middle;
+}
